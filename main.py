@@ -1,5 +1,5 @@
 # Define the path of the input file
-FILE = './clippings.txt'
+FILE = r'D:\Programmes\GitHub\clippings.txt'
 
 # Function to parse the input file and return the data
 def parse_input(file):
